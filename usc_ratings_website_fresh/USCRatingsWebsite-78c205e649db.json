@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "usc-ratings-website",
+  "private_key_id": "78c205e649db7f00e8269552dae295644778d068",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKFOWBAD2/S9jO\nIycj9bvY0QVWH0OixqxjhC1vmlQsn8pMuPdkmBaGeEUtxO8Rjl45a+yfMd3slmuS\nx1/aHphf2MBfOVrFy+2OwSsgW8dfNoMM5g0iRRqApidtDzh09vCukOLa8NGXRl1B\nROPUBxXZL+vbXwvhFo1yA1B6CI1K2GeMwJaCP55TnaAhLvowpJ5gqrT8JHENbDlT\nhk6aGaBuMWD0zTu0W1U4/EMU6ejOSLPGDdEaKK6X2ubbqpGJO6X8Ls1hSKUzzom1\nO+gVEQaaBQD8Yoym9nd5d0DcZ73x8gbHukQmcmNwGq9rrNePjlx5ZVNu1SWmXIxW\nSY6TVY5bAgMBAAECggEAF0aN4qxg8FIvoBqbbQBmSQRWPYOvWiXRAEteol6fuF4V\nQn4BfLQp0AY1TZ7DvH1t6+Y65GEtgw0WSdst9qUUfuGr0qv8ARFKhOlJ6tm3Xoec\nU5WByMM12MCKhPy+T3aL5Udp4bbgJTDlF9nz9d11DkV/QI6zgxMCarHoCI5Im+iZ\nhqhZ694MeH/pqAGsffmDB3DGTEqLbUS+ALRWQgMWnWweSo8+RdsqgfU8CAzsTO6D\nWCfolJb0S4N7G8xwBOuSu47H7ZswDuXEfXs5gbOpNasxfQELYYiDuRv5CUzeA38J\nBcNtP7qNObeAdtI7/v4ScTRr5cPBmfCPJaefIaXRAQKBgQD07l1wZO4ZAGg5Iyx7\nmgF0e+3s22lfRTXsiuzAtWbfTb8/FHmYBWduPtteSO2j3xe1PTAwHKuRch4RC4kh\n4BErTvbXJaNHb+rj5vT4wqKE5CSL+iVAbtYWQa/508NRJ5IdkTOegxACFT3CryIe\ngPx4rRACFNDwW2maj0oEUpodAQKBgQDTNs0Tn7xfVvXGObz0LiXrRdtdNi/LTFGG\nEPGhWSFcVXq9P1GX4MHvP3UenE3JY/a0I3RIrZpitMcSto7QqOQ4m5DeMRhC61qn\n4g8C0zboW2XANNaKybkRpsFjccduODQcQqs9ZfBYj+WVafRas04QYr8gRY+iHcDM\ns7nWR2o/WwKBgQDJKPAC/FH0pLn0m2fQR+cEBTiefIGpZk1obZ0OlK3dnpwAsc8/\nxMhy6hr+78SE/xgYmR13lkRumxwIgcHp2X4gZKUkhFv6svdmn+v4VtplbH57nEF2\nDtGzy9U8yOg0Qdymffe4Kwo9u7ZSq8XI6cTxU6m/G9uSXHF6KE7xB+pdAQKBgCKw\nwYYTmlDea4efPBWu7rNxydHJcJgndMxcRBOIHB6aO4qRt8kGNVQiTA43Bd+p938m\nw5acTNshbgD40wQaeUGC64xS6/UxyrYAPw7rufz35gJnq0UoVKk9hk3bBjJoMMbj\nfFSdRZiGKeMcf/HVuWCfl1ypkCnEUUJN0pwLJrw5AoGAZUb4oKJjS53Fxw4LNejD\nFe5ZDLc/i2JBVw6UkhkbuY1eS1fIOmqDYiWKS+znWlXQqnWyTsVZ7tb9Evlr8gxC\n2tWcJ51pCz9zljNYpozKOaQOKX/zTvYlqYj5MxtaYNBj5L/UwrwBa/z2wGzABex1\nKEjQAwyjkmvmKm8WlDP6MAI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uscratings@usc-ratings-website.iam.gserviceaccount.com",
+  "client_id": "100792821029735026620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uscratings%40usc-ratings-website.iam.gserviceaccount.com"
+}
